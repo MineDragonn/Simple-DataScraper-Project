@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1p4tpBLHzEi2Q6sIvIgM1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="my-name-generator.com" CVScreenId="7cd92fe6-1a0a-4408-bdb8-420fbd51fed9" CvType="AnyWordGroup" DesignTimeRectangle="333, 290, 231, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;p' tag='P' /&gt;" Guid="dc501f6c-ce9a-4a3f-9afb-e70d0871a630" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Online nickname generator - Random nicknames' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f4f117b5d7f8db618850b64a8b3edaec.png" xmlns="">0EjW6NOSK80m4vHE45p9iMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

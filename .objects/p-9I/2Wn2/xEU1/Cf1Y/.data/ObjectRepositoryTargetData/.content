@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n_uA537IQUGN7mBW0uUrhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zalando.pl/katalog" CVScreenId="1dec696c-a8e9-46e9-966c-8fd33ed62a3c" CvElementArea="1030, 179, 254, 46" CvTextArea="1075, 194, 155, 18" CvTextArgument="adidas originals buty" CvType="Button" DesignTimeRectangle="1077, 182, 196, 40" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='header-search-input' tag='INPUT' /&gt;" Guid="bddea3ab-d57e-410d-8104-a321aebd33e5" ScopeSelectorArgument="&lt;html app='firefox.exe' htmlwindowname='{&amp;quot;zlnd_t_tid&amp;quot;:&amp;quot;6m-Uao7dTauc4Vt0KF7SM&amp;quot;}' title='Adidas Originals Buty - Kup online | Katalog | Zalando - Strona 18' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4add33f6966eec34af5c6bbfc748cc94.png" xmlns="">0_q9W6RIh7EG-hMPEeoM4jw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">VerifyTypeIntoExecution</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

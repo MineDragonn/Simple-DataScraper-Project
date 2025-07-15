@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LghG8KK1f0-kunIQGTtTOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="my-name-generator.com" CVScreenId="1a20d6a9-3fbc-4116-b465-21e7dbc5ff05" CvElementArea="549, 253, 220, 48" CvType="InputBox" DesignTimeRectangle="550, 255, 217, 44" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="ccb83379-eccb-4202-995f-e79a6ae7625d" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Online nickname generator - Random nicknames' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0426027fe7451db553ec9e5917acf224.png" xmlns="">0bqPGhHS0Q06nefXQtEqvvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

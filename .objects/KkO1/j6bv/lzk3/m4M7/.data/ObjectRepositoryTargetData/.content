@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aIyq8wZ8MEG_GE6SFjBR0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="my-name-generator.com" CVScreenId="3a9eb06a-9488-47d7-80fd-364b43c85aa1" CvElementArea="481, 563, 403, 52" CvTextArea="612, 578, 139, 24" CvTextArgument="Generate again" CvType="Button" DesignTimeRectangle="483, 564, 400, 50" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Generate again' tag='BUTTON' /&gt;" Guid="79e460ab-a823-430e-9a1c-5f705bf22126" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Online nickname generator - Random nicknames' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3a7cc40fce8ad65fe33922313d8541a1.png" xmlns="">0-zRjXWPiSk-v1dkobquAKg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

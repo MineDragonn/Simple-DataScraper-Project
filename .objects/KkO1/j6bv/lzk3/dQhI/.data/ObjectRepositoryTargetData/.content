@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ocyypIFYGEaemQGJymonGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="my-name-generator.com" CVScreenId="c4809f03-fd41-459f-9e04-0629a4144a9d" CvElementArea="31, 536, 617, 170" CvType="InputBox" DesignTimeRectangle="69, 614, 588, 16" FullSelectorArgument="&lt;uia automationid='toolbox-container' role='group' /&gt;&lt;uia role='tree' /&gt;&lt;uia automationid='treeitem-32' name='&amp;lt; ul class=&amp;quot;pseudo-list&amp;quot; New attribute &amp;gt;' role='tree item' /&gt;" Guid="3e9ce5d3-60b2-4969-b3c7-11461e85531c" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Online nickname generator - Random nicknames — Mozilla Firefox' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6061de066f64fb441938f6ab351ec483.png" xmlns="">07b7xc9lb6k2bB58dievctA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
